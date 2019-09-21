@@ -1,0 +1,28 @@
+
+body { 
+    background: url("assets\images\psychic_background.jpg") repeat;
+    border: 2px solid black;
+    padding: 0px;
+}
+
+img {
+    opacity: .8;
+    width: 100%;
+    background-size: cover;
+}
+
+.container {
+    position: fixed;
+    top: 0;
+    left: 5%;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+}
